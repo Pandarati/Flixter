@@ -1,10 +1,10 @@
-# Project 2 - Flixter App
+# Project 2-3 - Flixter App
 
 **Flixter App ** is an android app that allows users to view a list of movies sourced from the The Movie Database API. It works by receiving and parsing files JSON strings from the Movie Database.
 
 Submitted by: **Jonathan McKinley**
 
-Time spent: **6** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -13,9 +13,17 @@ The following **required** functionality is completed:
 * [X] Networking and Parsing JSON
 * [X] RecyclerView implementation
 
+* [X] Implement Activites and Intents
+* [X] Youtube Player View and JSON Parsing
+
 The following **optional** features are implemented:
 
-* [ ] Handling layouts for landscape/portrait mode
+* [ ] shared element transition
+* [ ] popular movies automatic play
+* [ ] Play Icon Overlay
+* [ ] Data Binding for Views
+* [ ] Rounded Corners
+
 
 The following **additional** features are implemented:
 
@@ -24,6 +32,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/Pandarati/Flixter/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='https://github.com/Pandarati/Flixter/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
